@@ -26,7 +26,7 @@ A modern, fully responsive business website template built with **React.js**, **
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/nexbank.git
+   git clone https://github.com/MuhammadTanveerAbbas/NexBank-SPA.git
 
 2. **Install dependencies**
 
