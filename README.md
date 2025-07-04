@@ -18,7 +18,7 @@ A modern, fully responsive business website template built with **React.js**, **
 
 ---
 
-**NexBank** is an enterprise-grade, production-ready template engineered for rapid deployment of corporate websites. It features modular, reusable sections—hero banners, feature showcases, billing details, testimonials, and calls-to-action—enabling you to launch a polished web presence in minutes, not weeks.
+**NexBank** is an enterprise-grade, production-ready template engineered for rapid deployment of corporate websites. It features modular, reusable sections—hero banners, feature showcases, billing details, testimonials.
 
 ---
 
