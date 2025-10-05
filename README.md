@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# NexBank 🏦 Business Website Template ⚡
+# NexBank 🏦 Business Website Template 🎨
 
 </div>
 <br/>
