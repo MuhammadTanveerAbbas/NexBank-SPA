@@ -64,7 +64,7 @@ A polished, fully responsive business website template that:
 
 ### 🛠️ Technology Used
 
-Vite • React • Tailwind CSS • JavaScript • HTML • CSS
+Vite • React Js• Tailwind CSS • JavaScript • HTML • CSS
 
 ---
 
